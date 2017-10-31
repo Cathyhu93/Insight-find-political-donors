@@ -7,7 +7,7 @@ hamcrest (in ./src/jar)
 
 How to run the program:
 method 1: 
-java -jar FindPoliticalDonors.jar input/input2.txt output/medianvals_by_zip.txt output/medianvals_by_date.txt
+java -jar FindPoliticalDonors.jar input/itcont.txt output/medianvals_by_zip.txt output/medianvals_by_date.txt
 
 method 2: 
 sh run.sh
