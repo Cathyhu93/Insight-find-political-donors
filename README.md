@@ -1,1 +1,0 @@
-# Insight-find-political-donors
