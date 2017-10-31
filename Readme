@@ -1,0 +1,16 @@
+Readme
+
+Requirements:
+JDK (jdk1.8.0_121.jdk)
+junit-4 (in ./src/jar)
+hamcrest (in ./src/jar)
+
+How to run the program:
+method 1: 
+java -jar FindPoliticalDonors.jar input/input2.txt output/medianvals_by_zip.txt output/medianvals_by_date.txt
+
+method 2: 
+sh run.sh
+
+
+
